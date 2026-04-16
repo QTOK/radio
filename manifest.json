@@ -1,7 +1,7 @@
 {
   "name": "RADIO ONLINE",
   "short_name": "RADIO",
-  "start_url": "https://www.radio.downface.org/",
+  "start_url": "https://qtok.github.io/radio/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
